@@ -5,7 +5,7 @@ import bg from '../../../public/Assets/Background image 1.png';
 const Tittle = () => {
     return (
         <div style=
-            {{ background: `url(${bg})` }} className="flex items-center justify-center h-40 bg-center bg-cover">
+            {{ background: `url(${bg})` }} className="flex items-center justify-center h-40 bg-center bg-no-repeat bg-cover">
             <div className="text-white">
                 < h1 className="mb-2 text-5xl font-bold text-center" > Construction</h1 >
                 <div className="flex items-center justify-center gap-3 text-2xl font-medium">

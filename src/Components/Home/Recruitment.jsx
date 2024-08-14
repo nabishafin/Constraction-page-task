@@ -13,7 +13,9 @@ const Recruitment = () => {
                         <p className="py-6">
                             In the dynamic and ever-evolving world of construction, finding the right talent to bring your projects to life is crucial. We specialize in connecting top-tier construction professionals with international opportunities that match their skills and aspirations. Whether you are a company looking to build a world-class team or a skilled worker seeking your next big challenge, we are here to ensure the perfect fit.
                         </p>
-                        <button className="btn btn-primary">Contact-us</button>
+                        <div>
+                            <button className=" btn btn-primary">Contact-us</button>
+                        </div>
                     </div>
                 </div>
             </div>

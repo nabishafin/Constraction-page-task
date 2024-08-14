@@ -1,3 +1,4 @@
+import Benefit from "./Benefit";
 import Recruitment from "./Recruitment";
 import Roles from "./Roles";
 import Tittle from "./Tittle";
@@ -10,6 +11,7 @@ const Home = () => {
             <Tittle></Tittle>
             <Recruitment></Recruitment>
             <Roles></Roles>
+            <Benefit></Benefit>
         </div>
     );
 };

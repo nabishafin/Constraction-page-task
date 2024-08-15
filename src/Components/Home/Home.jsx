@@ -1,4 +1,5 @@
 import Benefit from "./Benefit";
+import From from "./From";
 import Recruitment from "./Recruitment";
 import Roles from "./Roles";
 import Tittle from "./Tittle";
@@ -7,11 +8,12 @@ import Tittle from "./Tittle";
 const Home = () => {
 
     return (
-        <div className="mt-5 border-2 lg:mr-10 lg:ml-10">
+        <div className="">
             <Tittle></Tittle>
             <Recruitment></Recruitment>
             <Roles></Roles>
             <Benefit></Benefit>
+            <From></From>
         </div>
     );
 };

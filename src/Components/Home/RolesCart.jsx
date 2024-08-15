@@ -4,7 +4,7 @@ const RolesCart = (prop) => {
     const { img, name, paragraph } = prop
     return (
         <div className="p-1 sm :">
-            <div className="w-auto shadow-2xl lg:w-72 card bg-base-100">
+            <div className="w-auto shadow-lg lg:w-72 card bg-base-100">
                 <figure className="px-4 pt-2">
                     <img
                         src={img}

@@ -8,10 +8,10 @@ const BenefitCart = (prop) => {
                 <h3 className="mb-2 text-2xl font-bold">{tag}</h3>
                 <p>{details}</p>
             </div>
-            <div className="border-red-500" >
-                <img className="absolute rounded-full left-36 w-14 bottom-44 bg-rose-400" src={icon} alt="" />
+            <div className="m-2" >
+                <img className="absolute w-16 rounded-full left-32 bottom-44 bg-rose-500" src={icon} alt="" />
             </div>
-        </div>
+        </div >
     );
 }
 export default BenefitCart;

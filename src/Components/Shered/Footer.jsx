@@ -5,7 +5,7 @@ import { GoChevronRight } from "react-icons/go";
 const Footer = () => {
 
     return (
-        <div className=" bg-sky-900">
+        <div className="mt-10  bg-sky-900">
             <footer className="p-5 pt-20 sm: lg:pl-40 lg:pr-40 footer text-base-content">
                 <aside>
                     <img src="../../../public/Assets/Logo.png" alt="" />
@@ -107,7 +107,7 @@ const Footer = () => {
                     </div>
                 </aside>
             </footer>
-            <div className="flex items-center justify-center lg:pl-20 lg:pr-20">
+            <div className="flex items-center justify-center mt-10 lg:pl-20 lg:pr-20">
                 <hr className="w-10/12 text-white " />
             </div>
 

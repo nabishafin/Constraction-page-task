@@ -8,7 +8,7 @@ import Tittle from "./Tittle";
 const Home = () => {
 
     return (
-        <div className="">
+        <div className="mt-5">
             <Tittle></Tittle>
             <Recruitment></Recruitment>
             <Roles></Roles>

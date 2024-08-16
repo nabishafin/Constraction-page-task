@@ -1,7 +1,7 @@
 import { GoChevronRight } from "react-icons/go";
 import location from "../../../public/Assets/Icon 8.png"
 import massage from "../../../public/Assets/Icon 10.png"
-import call from "../../../public/Assets/Icon9.png"
+import callIcon from "../../../public/Assets/Icon 9.png"
 
 const Footer = () => {
 
@@ -93,7 +93,7 @@ const Footer = () => {
                     </div>
                     <div className="mt-4">
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src={call} alt="" />
+                            <img className="p-1 bg-white rounded-full" src={callIcon} alt="" />
                             <p className="mt-1">+40 123 456 789</p>
                         </div>
                         <div className="flex gap-2 mb-2">
@@ -125,7 +125,7 @@ const Footer = () => {
                     <p className="mt-1">Follow Us</p>
                     <div className="flex gap-8 sm :">
                         <img className="p-1 bg-white rounded-full" src={massage} alt="" />
-                        <img className="p-1 rounded-full bg-rose-700" src={call} alt="" />
+                        <img className="p-1 rounded-full bg-rose-700" src={callIcon} alt="" />
 
                     </div>
                 </div>

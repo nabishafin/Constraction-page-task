@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="mt-10 bg-sky-900">
             <footer className="p-5 pt-20 sm: lg:pl-40 lg:pr-40 footer text-base-content">
                 <aside>
-                    <img src="../../..//public/Assets/toplogo.png" alt="" />
+                    <img src="../../../public/Assets/Logo.png" alt="" />
                     <p className="mt-3 mb-3 text-white">Hire & Fire is a cutting-edge job <br /> website  designed to
                         connect <br /> employers with top-tier talent across <br /> various
                         industries.  Utilizing advanced matching <br /> algorithms, it
@@ -92,15 +92,15 @@ const Footer = () => {
                     </div>
                     <div className="mt-4">
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/call icon.png" alt="" />
+                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 9.png" alt="" />
                             <p className="mt-1">+40 123 456 789</p>
                         </div>
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Massage icon.png" alt="" />
+                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 10.png" alt="" />
                             <p className="mt-1">contact@hireandfire.agency</p>
                         </div>
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/location icon.png" alt="" />
+                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 8.png" alt="" />
                             <p className="mt-1">Strada ING. Zablovschi, Nr. 10 noBucuresti, Romania
                             </p>
                         </div>
@@ -123,8 +123,8 @@ const Footer = () => {
                 <div className="flex gap-4">
                     <p className="mt-1">Follow Us</p>
                     <div className="flex gap-8 sm :">
-                        <img className="p-1 bg-white rounded-full" src="../../../public/Assets/call icon.png" alt="" />
-                        <img className="p-1 rounded-full bg-rose-700" src="../../../public/Assets/Massage icon.png" alt="" />
+                        <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 9.png" alt="" />
+                        <img className="p-1 rounded-full bg-rose-700" src="../../../public/Assets/Icon 10.png" alt="" />
 
                     </div>
                 </div>

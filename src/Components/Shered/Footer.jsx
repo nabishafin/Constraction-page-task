@@ -1,6 +1,7 @@
 import { GoChevronRight } from "react-icons/go";
-
-
+import location from "../../../public/Assets/Icon 8.png"
+import massage from "../../../public/Assets/Icon 10.png"
+import call from "../../../public/Assets/Icon9.png"
 
 const Footer = () => {
 
@@ -92,15 +93,15 @@ const Footer = () => {
                     </div>
                     <div className="mt-4">
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 9.png" alt="" />
+                            <img className="p-1 bg-white rounded-full" src={call} alt="" />
                             <p className="mt-1">+40 123 456 789</p>
                         </div>
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 10.png" alt="" />
+                            <img className="p-1 bg-white rounded-full" src={massage} alt="" />
                             <p className="mt-1">contact@hireandfire.agency</p>
                         </div>
                         <div className="flex gap-2 mb-2">
-                            <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 8.png" alt="" />
+                            <img className="p-1 bg-white rounded-full" src={location} alt="" />
                             <p className="mt-1">Strada ING. Zablovschi, Nr. 10 noBucuresti, Romania
                             </p>
                         </div>

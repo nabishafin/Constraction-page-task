@@ -1,6 +1,6 @@
 import frombg from '../../../public/Assets/Background image 2.png';
-import location from '../../../public/Assets/location.png';
-import massage from '../../../public/Assets/massage.png';
+import location from '../../../public/Assets/location icon.png';
+import massage from '../../../public/Assets/Massage icon.png';
 const From = () => {
     return (
         <div className="justify-center rounded-lg lg:flex">

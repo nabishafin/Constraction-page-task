@@ -60,7 +60,7 @@ const Navbar = () => {
                             {links}
                         </ul>
                     </div>
-                    <Link to="/" className="text-xl btn btn-ghost "><img className="hidden sm : lg:block" src="../../../public/Assets/Logo.png" alt="" /></Link>
+                    <Link to="/" className="text-xl btn btn-ghost "><img className="hidden sm : lg:block" src="../../../public/Assets/toplogo.png" alt="" /></Link>
                 </div>
                 <div className="hidden navbar-center lg:flex">
                     <ul className="px-1 menu menu-horizontal">
@@ -69,7 +69,7 @@ const Navbar = () => {
                 </div>
                 <div className="gap-3 navbar-end ">
                     <div>
-                        <img src="../../../public/Assets/Country Icon.png" alt="" />
+                        <img src="../../../public/Assets/switch languge.png" alt="" />
                     </div>
                     <details>
                         <summary>

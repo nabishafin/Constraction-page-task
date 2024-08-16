@@ -6,7 +6,7 @@ const Recruitment = () => {
             <div className="hero">
                 <div className="flex-col p-0 hero-content lg:flex-row-reverse">
                     <img
-                        src="../../../public/Assets/recruitment.png"
+                        src="../../../public/Assets/bannerpic.png"
                         className="max-w-sm rounded-lg shadow-2xl lg:max-w-lg" />
                     <div className="p-4">
                         <h1 className="text-3xl font-bold">Your Partner In International Construction Recruitment</h1>

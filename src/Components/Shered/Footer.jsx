@@ -124,8 +124,8 @@ const Footer = () => {
                 <div className="flex gap-4">
                     <p className="mt-1">Follow Us</p>
                     <div className="flex gap-8 sm :">
-                        <img className="p-1 bg-white rounded-full" src="../../../public/Assets/Icon 9.png" alt="" />
-                        <img className="p-1 rounded-full bg-rose-700" src="../../../public/Assets/Icon 10.png" alt="" />
+                        <img className="p-1 bg-white rounded-full" src={massage} alt="" />
+                        <img className="p-1 rounded-full bg-rose-700" src={call} alt="" />
 
                     </div>
                 </div>
